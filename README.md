@@ -11,6 +11,7 @@
     - [Pluralsight](#pluralsight)
     - [Lynda](#lynda)
     - [Blockchain Training Alliance](#blockchain-training-alliance)
+    - [Blockchain Institute of Technology](#blockchain-institute-of-technology)
   - [Books](#books)
 
 <!-- /TOC -->
