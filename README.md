@@ -74,11 +74,23 @@ Last time I checked, there were 217 courses about blockchain in Udemy. So, IMHO 
 - [Blockchain for Healthcare Professionals and the Patient Empowered Blockchain (PEB)](https://blockchaintrainingalliance.com/collections/all-courses/products/blockchain-for-healthcare-professionals-and-the-patient-empowered-blockchain-peb)
 - [Corda Training: CorDapps Development](https://blockchaintrainingalliance.com/collections/all-courses/products/cordapps)
 
-Blockchain Training Alliance also has certification programs:
+Certifications:
 
 - [Certified Blockchain Business Foundations (CBBF)](https://blockchaintrainingalliance.com/collections/certifications/products/cbbf)
 - [Certified Blockchain Solution Architect (CBSA)](https://blockchaintrainingalliance.com/collections/certifications/products/cbsa)
 - [Certified Blockchain Developer - Ethereum (CBDE)](https://blockchaintrainingalliance.com/collections/certifications/products/cbde)
 - [Certified Blockchain Developer - Hyperledger Fabric (CBDH)](https://blockchaintrainingalliance.com/collections/certifications/products/cbdh)
+
+### [Blockchain Institute of Technology](https://blockchaininstituteoftechnology.com/)
+
+- [Blockchain and Bitcoin Fundamentals](https://courses.blockchaininstituteoftechnology.com/courses/blockchain-and-bitcoin-fundamentals)
+- [Cryptocurrency Fundamentals](https://courses.blockchaininstituteoftechnology.com/courses/cryptocurrency-fundamentals)
+- [Bitcoin Advanced Level: Transactions](https://courses.blockchaininstituteoftechnology.com/courses/bitcoin-advanced-transactions)
+- [Blockchain Advanced Level: Uses Beyond Bitcoin 2018](https://courses.blockchaininstituteoftechnology.com/courses/blockchain-uses-beyond-bitcoin-2018)
+
+Certifications:
+
+- [Certified Blockchain Professional (CBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-blockchain-professional/)
+- [Certified Senior Blockchain Professional (CSBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-senior-blockchain-professional/)
 
 ## Books
