@@ -94,4 +94,23 @@ Certifications:
 - [Certified Blockchain Professional (CBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-blockchain-professional/)
 - [Certified Senior Blockchain Professional (CSBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-senior-blockchain-professional/)
 
+### [B9 Lab Academy](https://academy.b9lab.com/)
+
+Ethereum:
+
+- [Ethereum 101](https://academy.b9lab.com/courses/B9lab/X16-0/2016/about)
+- [Ethereum Developer Course](https://academy.b9lab.com/courses/B9lab/current-ethereum-developer-course) - _Certified_
+- [Quorum Specialisation Course](https://academy.b9lab.com/courses/B9lab/current-Quorum-course) - _Certified_
+- [Ethereum QA Engineer Course](https://academy.b9lab.com/courses/B9lab/current-ethereum-qa-engineer-course) - _Certified_
+
+Hyperledger:
+
+- [Hyperledger Fabric 101](https://academy.b9lab.com/courses/course-v1:B9lab+HLF-101+2017-11/about)
+- [Hyperledger Fabric Developer Course](https://academy.b9lab.com/courses/B9lab/current-hyperledger-course) - _Certified_
+
+Blockchain for Non-Developers:
+
+- [Blockchain Essentials](https://academy.b9lab.com/courses/course-v1:Blab+BEC-FREE+2018-08/about)
+- [Blockchain for Professionals](https://academy.b9lab.com/courses/B9lab/current-bfp-course) - _Certified_
+
 ## Books
