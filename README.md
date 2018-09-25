@@ -16,6 +16,7 @@
 		* [Blockchain Institute of Technology](#blockchain-institute-of-technologyhttpsblockchaininstituteoftechnologycom)
 		* [B9 Lab Academy](#b9-lab-academyhttpsacademyb9labcom)
 	* [Books](#books)
+	* [License](#license)
 
 <!-- /code_chunk_output -->
 
@@ -122,3 +123,7 @@ Blockchain for Non-Developers:
 * [Mastering Ethereum](http://shop.oreilly.com/product/0636920056072.do)
 * [Building Ethereum DApps](https://www.manning.com/books/building-ethereum-dapps)
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/)
+
+## License
+
+[![CC-BY-4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
