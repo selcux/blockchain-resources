@@ -117,6 +117,12 @@ Blockchain for Non-Developers:
 * [Blockchain Essentials](https://academy.b9lab.com/courses/course-v1:Blab+BEC-FREE+2018-08/about)
 * [Blockchain for Professionals](https://academy.b9lab.com/courses/B9lab/current-bfp-course) - _Certified_
 
+### [Cryptocurrency Certification Consortium (C4)](https://cryptoconsortium.org/)
+
+* [Certified Bitcoin Professional (CBP)](https://cryptoconsortium.org/certifications/CBP)
+* [Certified Bitcoin Expert (CBX)](https://cryptoconsortium.org/certifications/CBX)
+* [Certified Ethereum Developer (CED)](https://cryptoconsortium.org/certifications/CED)
+
 ## Books
 
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/blockchain/what-is-blockchain)
