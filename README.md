@@ -6,16 +6,22 @@
 
 * [Blockchain Resources](#blockchain-resources)
 	* [Training](#training)
-		* [Udemy](#udemyhttpswwwudemycom)
-		* [Udacity](#udacityhttpswwwudacitycom)
-		* [Coursera](#courserahttpswwwcourseraorg)
-		* [EDX](#edxhttpswwwedxorg)
-		* [Pluralsight](#pluralsighthttpswwwpluralsightcom)
-		* [Lynda](#lyndahttpswwwlyndacom)
-		* [Blockchain Training Alliance](#blockchain-training-alliancehttpsblockchaintrainingalliancecom)
-		* [Blockchain Institute of Technology](#blockchain-institute-of-technologyhttpsblockchaininstituteoftechnologycom)
-		* [B9 Lab Academy](#b9-lab-academyhttpsacademyb9labcom)
+		* [Udemy](#udemy)
+		* [Udacity](#udacity)
+		* [Coursera](#coursera)
+		* [EDX](#edx)
+		* [Pluralsight](#pluralsight)
+		* [Lynda](#lynda)
+		* [Blockchain Training Alliance](#blockchain-training-alliance)
+		* [Blockchain Institute of Technology](#blockchain-institute-of-technology)
+		* [B9lab Academy](#b9lab-academyhttpsacademyb9labcom)
+		* [Cryptocurrency Certification Consortium (C4)](#cryptocurrency-certification-consortium-c4)
+		* [Edureka](#edureka)
+		* [TransformationWorx](#transformationworx)
+		* [Central Blockchain Council of America](#central-blockchain-council-of-america)
+		* [Blockchain Council](#blockchain-council)
 	* [Books](#books)
+	* [Additional Resources](#additional-resources)
 	* [License](#license)
 
 <!-- /code_chunk_output -->
@@ -47,7 +53,7 @@ Last time I checked, there were 217 courses about blockchain in Udemy. So, IMHO 
 * [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 * [Blockchain: Understanding Its Uses and Implications](https://www.edx.org/course/understanding-blockchain-and-its-implications)
 * [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business)
-* [Blockchain for Business \* An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0)
+* [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0)
 * [Blockchain and FinTech: Basics, Applications, and Limitations](https://www.edx.org/course/blockchain-and-fintech-basics-applications-and-limitations)
 * [Bitcoin and Cryptocurrencies](https://www.edx.org/course/cryptocurrencies-bitcoin-and-the-crypto-space)
 
@@ -98,7 +104,7 @@ Certifications:
 * [Certified Blockchain Professional (CBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-blockchain-professional/)
 * [Certified Senior Blockchain Professional (CSBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-senior-blockchain-professional/)
 
-### [B9 Lab Academy](https://academy.b9lab.com/)
+### [B9lab Academy](https://academy.b9lab.com/)
 
 Ethereum:
 
@@ -132,12 +138,35 @@ Blockchain for Non-Developers:
 
 * [CIO CERTIFIED BLOCKCHAIN PROFESSIONAL (CCBP)](https://www.transformationworx.com/certification)
 
+### [Central Blockchain Council of America](https://www.cbcamerica.org/)
+
+Certifications:
+
+* [Cryptocurrency Investment Professional](https://www.cbcamerica.org/blockchain-certifications/cryptocurrency-investment-professional)
+* [Business Blockchain Professional](https://www.cbcamerica.org/blockchain-certifications/business-blockchain-professional)
+* [Certified Blockchain Engineer](https://www.cbcamerica.org/blockchain-certifications/certified-blockchain-engineer)
+
+### [Blockchain Council](https://www.blockchain-council.org/)
+
+* [Certified Blockchain Expert™ Version 2](https://www.blockchain-council.org/certifications/certified-blockchain-professional-expert/)
+* [Certified Blockchain Developer™ Version 2](https://www.blockchain-council.org/certifications/certified-blockchain-developer/)
+* [Certified Smart Contract Developer™](https://www.blockchain-council.org/certifications/certified-smart-contract-developer/)
+* [Certified Bitcoin Expert™](https://www.blockchain-council.org/certifications/certified-bitcoin-expert-cbie/)
+* [Certified Ethereum Expert™](https://www.blockchain-council.org/certifications/certified-ethereum-expert-cee/)
+* [Certified Solidity Developer™](https://www.blockchain-council.org/certifications/certified-solidity-developer/)
+* [Certified Cryptocurrency Expert™](https://www.blockchain-council.org/certifications/certified-cryptocurrency-expert/)
+* [Certified Cryptocurrency Trader™](https://www.blockchain-council.org/certifications/certified-cryptocurrency-trader/)
+
 ## Books
 
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/blockchain/what-is-blockchain)
 * [Mastering Ethereum](http://shop.oreilly.com/product/0636920056072.do)
 * [Building Ethereum DApps](https://www.manning.com/books/building-ethereum-dapps)
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/)
+
+## Additional Resources
+
+* https://learnblockcha.in/
 
 ## License
 
