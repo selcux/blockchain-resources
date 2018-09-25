@@ -123,6 +123,15 @@ Blockchain for Non-Developers:
 * [Certified Bitcoin Expert (CBX)](https://cryptoconsortium.org/certifications/CBX)
 * [Certified Ethereum Developer (CED)](https://cryptoconsortium.org/certifications/CED)
 
+### [Edureka](https://www.edureka.co/)
+
+* [Blockchain Certification Training](https://www.edureka.co/blockchain-training)
+* [Ethereum Developer Certification Course](https://www.edureka.co/ethereum-developer-course)
+
+### [TransformationWorx](https://www.transformationworx.com/)
+
+* [CIO CERTIFIED BLOCKCHAIN PROFESSIONAL (CCBP)](https://www.transformationworx.com/certification)
+
 ## Books
 
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/blockchain/what-is-blockchain)
