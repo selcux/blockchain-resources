@@ -14,7 +14,7 @@
 		* [Lynda](#lynda)
 		* [Blockchain Training Alliance](#blockchain-training-alliance)
 		* [Blockchain Institute of Technology](#blockchain-institute-of-technology)
-		* [B9lab Academy](#b9lab-academyhttpsacademyb9labcom)
+		* [B9lab Academy](#b9lab-academy)
 		* [Cryptocurrency Certification Consortium (C4)](#cryptocurrency-certification-consortium-c4)
 		* [Edureka](#edureka)
 		* [TransformationWorx](#transformationworx)
