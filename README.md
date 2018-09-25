@@ -43,7 +43,7 @@ Last time I checked, there were 217 courses about blockchain in Udemy. So, IMHO 
 - [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 - [Blockchain: Understanding Its Uses and Implications](https://www.edx.org/course/understanding-blockchain-and-its-implications)
 - [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business)
-- [Blockchain for Business * An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0)
+- [Blockchain for Business \* An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x-0)
 - [Blockchain and FinTech: Basics, Applications, and Limitations](https://www.edx.org/course/blockchain-and-fintech-basics-applications-and-limitations)
 - [Bitcoin and Cryptocurrencies](https://www.edx.org/course/cryptocurrencies-bitcoin-and-the-crypto-space)
 
@@ -95,3 +95,8 @@ Certifications:
 - [Certified Senior Blockchain Professional (CSBCP)](https://blockchaininstituteoftechnology.com/certifications/certified-senior-blockchain-professional/)
 
 ## Books
+
+- [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/blockchain/what-is-blockchain)
+- [Mastering Ethereum](http://shop.oreilly.com/product/0636920056072.do)
+- [Building Ethereum DApps](https://www.manning.com/books/building-ethereum-dapps)
+- [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/)
