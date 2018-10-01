@@ -6,20 +6,20 @@
 
 * [Blockchain Resources](#blockchain-resources)
 	* [Training](#training)
-		* [Udemy](#udemy)
-		* [Udacity](#udacity)
-		* [Coursera](#coursera)
-		* [EDX](#edx)
-		* [Pluralsight](#pluralsight)
-		* [Lynda](#lynda)
-		* [Blockchain Training Alliance](#blockchain-training-alliance)
-		* [Blockchain Institute of Technology](#blockchain-institute-of-technology)
-		* [B9lab Academy](#b9lab-academy)
-		* [Cryptocurrency Certification Consortium (C4)](#cryptocurrency-certification-consortium-c4)
-		* [Edureka](#edureka)
-		* [TransformationWorx](#transformationworx)
-		* [Central Blockchain Council of America](#central-blockchain-council-of-america)
-		* [Blockchain Council](#blockchain-council)
+		* [Udemy](#udemyhttpswwwudemycom)
+		* [Udacity](#udacityhttpswwwudacitycom)
+		* [Coursera](#courserahttpswwwcourseraorg)
+		* [EDX](#edxhttpswwwedxorg)
+		* [Pluralsight](#pluralsighthttpswwwpluralsightcom)
+		* [Lynda](#lyndahttpswwwlyndacom)
+		* [Blockchain Training Alliance](#blockchain-training-alliancehttpsblockchaintrainingalliancecom)
+		* [Blockchain Institute of Technology](#blockchain-institute-of-technologyhttpsblockchaininstituteoftechnologycom)
+		* [B9lab Academy](#b9lab-academyhttpsacademyb9labcom)
+		* [Cryptocurrency Certification Consortium (C4)](#cryptocurrency-certification-consortium-c4httpscryptoconsortiumorg)
+		* [Edureka](#edurekahttpswwwedurekaco)
+		* [TransformationWorx](#transformationworxhttpswwwtransformationworxcom)
+		* [Central Blockchain Council of America](#central-blockchain-council-of-americahttpswwwcbcamericaorg)
+		* [Blockchain Council](#blockchain-councilhttpswwwblockchain-councilorg)
 	* [Books](#books)
 	* [Additional Resources](#additional-resources)
 	* [License](#license)
@@ -159,6 +159,7 @@ Certifications:
 
 ## Books
 
+* [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038)
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/blockchain/what-is-blockchain)
 * [Mastering Ethereum](http://shop.oreilly.com/product/0636920056072.do)
 * [Building Ethereum DApps](https://www.manning.com/books/building-ethereum-dapps)
@@ -166,7 +167,7 @@ Certifications:
 
 ## Additional Resources
 
-* https://learnblockcha.in/
+* <https://learnblockcha.in/>
 
 ## License
 
