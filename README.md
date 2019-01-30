@@ -20,6 +20,7 @@
 		* [TransformationWorx](#transformationworx)
 		* [Central Blockchain Council of America](#central-blockchain-council-of-america)
 		* [Blockchain Council](#blockchain-council)
+		* [The Linux Foundation Training](#the-linux-foundation-training)
 	* [Books](#books)
 	* [Additional Resources](#additional-resources)
 	* [License](#license)
@@ -157,6 +158,10 @@ Certifications:
 * [Certified Cryptocurrency Expert™](https://www.blockchain-council.org/certifications/certified-cryptocurrency-expert/)
 * [Certified Cryptocurrency Trader™](https://www.blockchain-council.org/certifications/certified-cryptocurrency-trader/)
 
+### [The Linux Foundation Training](https://training.linuxfoundation.org/)
+* [Certified Hyperledger Fabric Administrator (CHFA)](https://training.linuxfoundation.org/certification/certified-hyperledger-fabric-administrator-chfa/)
+* [Certified Hyperledger Sawtooth Administrator (CHSA)](https://training.linuxfoundation.org/certification/certified-hyperledger-sawtooth-administrator-chsa/)
+
 ## Books
 
 * [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038)
@@ -164,6 +169,7 @@ Certifications:
 * [Mastering Ethereum](http://shop.oreilly.com/product/0636920056072.do)
 * [Building Ethereum DApps](https://www.manning.com/books/building-ethereum-dapps)
 * [Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/book/)
+* [Mastering Bitcoin, 2nd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-2nd/9781491954379/)
 
 ## Additional Resources
 
